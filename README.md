@@ -1,3 +1,11 @@
+# Azure Batch Python Quickstart
+
+[English](README.md) | [日本語](README.ja.md)
+
+A Python sample introducing Azure Batch pools, compute nodes, jobs, tasks, and interaction with Azure Storage.
+
+---
+
 ---
 page_type: sample
 description: "A basic Python application that introduces Batch features such as pools, nodes, jobs, tasks, and interaction with Storage."
