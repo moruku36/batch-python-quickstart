@@ -24,7 +24,7 @@ For details and explanation, see the accompanying article [Run your first Batch 
 ## Prerequisites
 
 - Azure Batch account and linked general-purpose Azure Storage account
-- Python 2.7 or 3.3 or later including pip
+- Python 3 including pip (Python 2 is incompatible)
 
 ## Resources
 
